@@ -1,0 +1,93 @@
+.tithom{
+	font-family: 'Dancing Script';
+	font-size: 72px;
+}
+.titulohom{
+	font-size: 52px;
+	font-weight: bold;
+}
+
+.texthom{
+	font-size: 22px;
+
+}
+.tabla{
+	vertical-align: middle;
+}
+.dia{
+	background-color: #46205c;
+	color: white;
+}
+.diasbg{
+	background-color: #69357f;
+    color: #ffffff;
+}
+.alm-bg{
+	background-color: #295226;
+    color: #ffffff;
+}
+.cen-bg{
+	background-color: rgb(23, 45, 24);
+    color: #ffffff;
+}
+.img-menu{
+	border-radius: 50%;
+}
+
+.articulo{
+	margin-bottom: 5%;
+}
+.tit{
+	margin-top: 5%;
+}
+.tit2{
+/*	vertical-align: middle;*/
+	background-color: #69357f;
+}
+.colorb{
+	background-color: #C2DCAD;
+	vertical-align: middle;
+}
+.whit-text{
+	color: #ffffff;
+}
+.color-text{
+	color: #295226;
+}
+.hom{
+	margin-bottom: 15%;
+}
+.texacerca{
+	font-size: 22px;
+}
+.col-bg{
+	background-color: #e0eed5;
+}
+.bgcol{
+	background-color: white;
+}
+.cont-bg{
+	background-color:rgb(41, 82, 38);
+	padding: 5% 5% 5% 5%;
+}
+.cont-bg2{
+	background-color:#C2DCAD;
+	padding: 5% 5% 5% 5%;
+}
+i{
+	margin-bottom: 3%;
+	color: white;
+}
+.fbic{
+	color: 	#3b5998;
+}
+.contac{
+	color:white;
+}
+.textfb{
+	margin-top: 4%;
+	color:rgb(41, 82, 38);
+}
+.bg-foot{
+	padding: 5% 5% 5% 5%;
+}

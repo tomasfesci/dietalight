@@ -1,0 +1,19 @@
+{
+    "name": "tomas/dietalight",
+    "description": "proyecto web",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Fescina",
+            "email": "tomasfesci@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+
+        "psr-4":{
+            "Clases\\": "clases/"
+        }
+    }
+}
