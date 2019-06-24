@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/jakub-onderka/php-console-color" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/symfony/process/Symfony/Component/Process" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/symfony/routing/Symfony/Component/Routing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/symfony/security-core/Symfony/Component/Security/Core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/symfony/translation/Symfony/Component/Translation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/symfony/var-dumper/Symfony/Component/VarDumper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomasfescina/vendor/vlucas/phpdotenv" vcs="Git" />
+  </component>
+</project>
